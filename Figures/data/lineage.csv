@@ -1,0 +1,78 @@
+label,name,lineage,accession,animal
+Bat_coronavirus_RaTG13,R. affinis RaTG13,,MN996532.2,bat
+Guangdong_Pangolin_1_2019,Guangdong -1,,EPI_ISL_410721,pangolin
+MP789_pangolin_MT121216.1,MP789,,MT121216.1,pangolin
+RShSTT182_bat_EPI_ISL_852604,R. shameli RShSTT182,,EPI_ISL_852604,bat
+hu_reference_genome_NC_045512.2,SARS-CoV-2 Reference,,NC_045512.2,human
+hu_variant_A.1_EPI_ISL_417081,Lineage A.1,A.1,EPI_ISL_417081,human
+hu_variant_A.1_EPI_ISL_417159,Lineage A.1,A.1,EPI_ISL_417159,human
+hu_variant_A_EPI_ISL_407071,Lineage A.1,A,EPI_ISL_407071,human
+hu_variant_A_EPI_ISL_412028,Lineage A,A,EPI_ISL_407071,human
+hu_variant_B.1.1.159_EPI_ISL_9232040,Omicron,B.1.1.159,EPI_ISL_9232040,human
+hu_variant_B.1.1.159_EPI_ISL_9457986,Omicron,B.1.1.159,EPI_ISL_9457986,human
+hu_variant_B.1.1.159_EPI_ISL_9902084,Omicron,B.1.1.159,EPI_ISL_9902084,human
+hu_variant_B.1.1.7_MZ414247,Alpha,B.1.1.7,MZ414247,human
+hu_variant_B.1.1.7_MZ414251,Alpha,B.1.1.7,MZ414251,human
+hu_variant_B.1.1.7_MZ414253,Alpha,B.1.1.7,MZ414253,human
+hu_variant_B.1.351_MZ394580,Beta,B.1.351,MZ394580,human
+hu_variant_B.1.351_MZ401461,Beta,B.1.351,MZ401461,human
+hu_variant_B.1.351_MZ413998,Beta,B.1.351,MZ413998,human
+hu_variant_B.1.427_MZ414526,Epsilon,B.1.427,MZ414526,human
+hu_variant_B.1.427_MZ414531,Epsilon,B.1.427,MZ414531,human
+hu_variant_B.1.427_MZ414538,Epsilon,B.1.427,MZ414538,human
+hu_variant_B.1.429_MZ414410,Epsilon,B.1.429,MZ414410,human
+hu_variant_B.1.429_MZ414449,Epsilon,B.1.429,MZ414449,human
+hu_variant_B.1.429_MZ414471,Epsilon,B.1.429,MZ414471,human
+hu_variant_B.1.525_MZ412141,Eta,B.1.525,MZ412141,human
+hu_variant_B.1.525_MZ414722,Eta,B.1.525,MZ414722,human
+hu_variant_B.1.525_MZ415454,Eta,B.1.525,MZ415454,human
+hu_variant_B.1.526_MZ414277,Iota,B.1.526,MZ414277,human
+hu_variant_B.1.526_MZ414280,Iota,B.1.526,MZ414280,human
+hu_variant_B.1.526_MZ414289,Iota,B.1.526,MZ414289,human
+hu_variant_B.1.617.1_MW969754,Kappa,B.1.617.1,MW969754,human
+hu_variant_B.1.617.1_MW969755,Kappa,B.1.617.1,MW969755,human
+hu_variant_B.1.617.1_MZ415508,Kappa,B.1.617.1,MZ415508,human
+hu_variant_B.1.617.2_MZ414275,Delta,B.1.617.2,MZ414275,human
+hu_variant_B.1.617.2_MZ414367,Delta,B.1.617.2,MZ414367,human
+hu_variant_B.1.617.2_MZ414500,Delta,B.1.617.2,MZ414500,human
+hu_variant_B.1.617.3_MZ359842,Lineage B.1.617.3,B.1.617.3,MZ359842,human
+hu_variant_B.1_EPI_ISL_413602,Lineage B.1,B.1,EPI_ISL_413602,human
+hu_variant_B.1_MZ414293,Lineage B.1,B.1,MZ414293,human
+hu_variant_B.1_MZ414299,Lineage B.1,B.1,MZ414299,human
+hu_variant_B.1_MZ414302,Lineage B.1,B.1,MZ414302,human
+hu_variant_BANAL-20-103_MZ937001.1,BANAL-20-103,,MZ937001.1,bat
+hu_variant_BANAL-20-236_MZ937003.2,BANAL-20-236,,MZ937003.2,bat
+hu_variant_BANAL-20-52_MZ937000.1,BANAL-20-52,,MZ937000.1,bat
+hu_variant_B_EPI_ISL_406595,Lineage B,B,EPI_ISL_406595,human
+hu_variant_B_EPI_ISL_408511,Lineage B,B,EPI_ISL_408511,human
+hu_variant_B_EPI_ISL_413522,Lineage B,B,EPI_ISL_413522,human
+hu_variant_P.1_MZ414248,Gamma,P.1,MZ414248,human
+hu_variant_P.1_MZ414249,Gamma,P.1,MZ414249,human
+hu_variant_P.1_MZ414259,Gamma,P.1,MZ414259,human
+hu_variant_P.2_MZ368282,Zeta,P.2,MZ368282,human
+hu_variant_P.2_MZ368285,Zeta,P.2,MZ368285,human
+hu_variant_P.2_MZ397170,Zeta,P.2,MZ397170,human
+Bat_Rc-o319_LC556375.1,R. cornutus Rc-o319,,LC556375.1,bat
+Guangxi_Pangolin_P1E,Guangxi_P1E,,EPI_ISL_410539,pangolin
+Guangxi_Pangolin_P2V,Guangxi_P2V,,EPI_ISL_410542,pangolin
+Guangxi_Pangolin_P4L,Guangxi_P4L,,EPI_ISL_410538,pangolin
+Guangxi_Pangolin_P5E,Guangxi_P5E,,"	EPI_ISL_410541",pangolin
+Guangxi_Pangolin_P5L,Guangxi_P5L,,EPI_ISL_410540,pangolin
+MT121216.1_Pangolin_coronavirus_isolate_MP789_complete_genome,MP789,,MT121216.1,pangolin
+MW251308.1_Bat_coronavirus_RacCS203_complete_genome,R. acuminatus RacCS203,,MW251308.1,bat
+hCoV-19/bat/Cambodia/RShSTT182/2010|EPI_ISL_852604|2010-12-06,R. shameli RShSTT182,,EPI_ISL_852604,bat
+hCoV-19/bat/Yunnan/PrC31/2018|EPI_ISL_1098866|2018-08,Rhinolophus sp. PrC31,,EPI_ISL_1098866,bat
+hCoV-19/bat/Yunnan/RmYN02/2019|EPI_ISL_412977|2019-06-25,R. malayanus RmYN02,,EPI_ISL_412977,bat
+hCoV-19/bat/Yunnan/RmYN08/2020|EPI_ISL_1699448|2020-07-14,R. malayanus RmYN08,,EPI_ISL_1699448,bat
+hCoV-19/bat/Yunnan/RpYN06/2020|EPI_ISL_1699446|2020-05-25,R. malayanus RmYN06,,EPI_ISL_1699446,bat
+hu_variant_BANAL-20-103_MZ937001.1,BANAL-20-103,,MZ937001.1,bat
+hu_variant_BANAL-20-116_MZ937002.1,BANAL-20-116,,MZ937002.1,bat
+hu_variant_BANAL-20-236_MZ937003.2,BANAL-20-236,,MZ937003.2,bat
+hu_variant_BANAL-20-247_MZ937004.1,BANAL-20-247,,MZ937004.1,bat
+hu_variant_BANAL-20-52_MZ937000.1,BANAL-20-52,,MZ937000.1,bat
+ref_seq_NC_045512.2,SARS-CoV-2 Reference,,NC_045512.2,human
+Bat_Rc-o319_LC556375.1,Rc-0319,,LC556375.1,bat
+MT121216.1_Pangolin_coronavirus_isolate_MP789_complete_genome,MP789,,MT121216.1,pangolin
+MW251308.1_Bat_coronavirus_RacCS203_complete_genome,RacCS203,,MW251308.1,bat
+Bat_RShSTT182_B.1.177_EPI_ISL_852604,R. shameli RShSTT182,,EPI_ISL_852604,bat
+MP789_pangolin_MT121216.1,MP789,,MT121216.1,pangolin

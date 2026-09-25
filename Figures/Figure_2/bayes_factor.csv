@@ -1,0 +1,13 @@
+Dataset,Sequences,Model,Date vs no date,date vs shuffle,no date vs shuffle
+With variants,Genome,Relaxed lognormal,79.8,84,4.2
+With variants,Genome,Strict,71.2,83.6,12.4
+With variants,Gene S,Relaxed lognormal,35.2,40.6,5.4
+With variants,Gene S,Strict,34,41.5,7.5
+With variants,RBD,Relaxed lognormal,41.7,46.7,5
+With variants,RBD,Strict,34.5,42.6,8.1
+No variants,Genome,Relaxed lognormal,1.2,-35.5,-36.7
+No variants,Genome,Strict,-6,-43.8,-37.9
+No variants,Gene S,Relaxed lognormal,-29,2.4,31.4
+No variants,Gene S,Strict,-8.7,-2.4,6.4
+No variants,RBD,Relaxed lognormal,0.9,6.1,5.1
+No variants,RBD,Strict,-2.8,5.5,8.2
