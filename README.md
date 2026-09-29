@@ -18,7 +18,7 @@ The structure of this repository follows the following logic:
 
 ## phylogenetic tree generation
 1. Select a multiple sequence Fasta file from the [Raw data/fasta](https://github.com/Stephane-S/Paper_emergence_time_SARS-CoV-2/tree/main/Raw%20data/fasta) folder.
-2. Find the corresponding BEAST model parameters located in [Supplementary tables](https://github.com/Stephane-S/Paper_emergence_time_SARS-CoV-2/tree/main/Supplementary%20information)).
+2. Find the corresponding BEAST model parameters located in [Supplementary tables](https://github.com/Stephane-S/Paper_emergence_time_SARS-CoV-2/tree/main/Supplementary%20information).
 3. If using sequence dates for the analysis, the collection date for every sequence may be found [here](https://github.com/Stephane-S/Paper_emergence_time_SARS-CoV-2/tree/main/Raw%20data/sequences_collection_date)
 4. We ran three sets of computations with BEASTv2.7.5 for the models, each consisting of 20 millions steps.
 5. Following those runs, the results obtained were then combined using the LogCombiner v2.6.7 and we verified that the effective sampling size of key parameters was over 200.
