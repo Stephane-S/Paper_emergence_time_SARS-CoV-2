@@ -25,7 +25,7 @@ The structure of this repository follows the following logic:
 6. The TreeAnnotator software has been used to obtain the Maximum Clade Credibility (MCC) tree.
 
 ## Tree visualisation
-A R script is provided [here](https://github.com/Stephane-S/Paper_emergence_time_SARS-CoV-2/tree/main/Figures/Figure_3-5) to obtain the raw images for the publication. Please not that the SVG outputs have been embellished with an SVG editor software to add the finishing touches manually (legend, colors, etc.)
+An R script is provided [here](https://github.com/Stephane-S/Paper_emergence_time_SARS-CoV-2/tree/main/Figures/Figure_3-5) to obtain the phylogenetic tree images. Please not that the SVG outputs have been improved with an SVG editor software to add the finishing touches manually (legend, colors, etc.)
 
 
 ![Figure 3](https://github.com/Stephane-S/Paper_emergence_time_SARS-CoV-2/blob/main/Figures/Output_figures/fig3.jpg)
