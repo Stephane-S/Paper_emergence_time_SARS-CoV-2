@@ -20,7 +20,7 @@ The structure of this repository follows the following logic:
 1. Select a multiple sequence Fasta file from the [Raw data/fasta](https://github.com/Stephane-S/Paper_emergence_time_SARS-CoV-2/tree/main/Raw%20data/fasta) folder.
 2. Find the corresponding BEAST model parameters located in [Supplementary tables](https://github.com/Stephane-S/Paper_emergence_time_SARS-CoV-2/tree/main/Supplementary%20information).
 3. If you use sequence dates for the analysis, the collection date for every sequence can be found in [Raw data/sequences_collection_date](https://github.com/Stephane-S/Paper_emergence_time_SARS-CoV-2/tree/main/Raw%20data/sequences_collection_date) folder.
-4. Carry out three computation runs with BEASTv2.7.5, for the model selected in Step 2, each consisting of 20 millions steps.
+4. Carry out three computation runs with BEASTv2.7.5, each consisting of 20 millions steps, for the model selected in Step 2.
 5. Following those runs, the results obtained were then combined using the LogCombiner v2.6.7 and we verified that the effective sampling size of key parameters was over 200.
 6. The TreeAnnotator software has been used to obtain the Maximum Clade Credibility (MCC) tree.
 
