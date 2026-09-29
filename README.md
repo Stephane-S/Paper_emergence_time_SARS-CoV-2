@@ -1,3 +1,5 @@
+# Repository overview
+
 This GitHub repository contains all relevant data and code to replicate the results of the paper "[Assessing the emergence time of SARS-CoV-2
 zoonotic spillover](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301195)".
 
@@ -10,3 +12,7 @@ The structure of this repository follows the following logic:
 
 
 *Please note that the .trees output of the BEAST analyses combined by LogCombiner are too large to be posted on this repo due to GitHub's file size limits. They are available on demand by contacting the corresponding author of the paper. The .tree files produced by TreeAnnotator are located in Figures/Data/tree. 
+
+
+# Exact procedure used to reconstruct phylogenetic trees in Figures 3 to 5
+
