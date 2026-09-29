@@ -22,7 +22,7 @@ The structure of this repository follows the following logic:
 3. If you use sequence dates for the analysis, the collection date for every sequence can be found in [Raw data/sequences_collection_date](https://github.com/Stephane-S/Paper_emergence_time_SARS-CoV-2/tree/main/Raw%20data/sequences_collection_date) folder.
 4. Carry out three computation runs with BEASTv2.7.5, each consisting of 20 millions steps, for the model selected in Step 2.
 5. Use LogCombiner v2.6.7 to combine the results of the three runs and verify that the effective sampling size of the key parameters is over 200.
-6. The TreeAnnotator software has been used to obtain the Maximum Clade Credibility (MCC) tree.
+6. Use TreeAnnotator to obtain the Maximum Clade Credibility (MCC) tree.
 
 ## Tree visualisation
 An R script is provided [here](https://github.com/Stephane-S/Paper_emergence_time_SARS-CoV-2/tree/main/Figures/Figure_3-5) to obtain the phylogenetic tree images. Please note that the SVG outputs were improved with an SVG editor software to add the finishing touches manually (legends, colors, etc.)
