@@ -11,7 +11,7 @@ The structure of this repository follows the following logic:
 - **[Supplementary information](https://github.com/Stephane-S/Paper_emergence_time_SARS-CoV-2/tree/main/Supplementary%20information)**: Contains other relevant information related to the methodology of this paper, such as the BEAST2 parameters, the phylogenetic tree parameters and the Marginal likelihood and Bayes factors results.
 
 
-*Please note that the .trees output of the BEAST analyses combined by LogCombiner are too large to be posted on this repo due to GitHub's file size limits. They are available on demand by contacting the corresponding author of the paper. The .tree files produced by TreeAnnotator are located in Figures/Data/tree. 
+*Please note that the .trees output of the BEAST analyses combined by LogCombiner are too large to be posted on this repo due to GitHub's file size limits. They are available on demand by contacting the corresponding author of the paper. The .tree files produced by TreeAnnotator are located in [Figures/Data/tree](https://github.com/Stephane-S/Paper_emergence_time_SARS-CoV-2/tree/main/Figures/data/tree). 
 
 
 # Exact procedure used to reconstruct phylogenetic trees in Figures 3 to 5
